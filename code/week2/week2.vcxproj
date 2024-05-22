@@ -129,11 +129,14 @@
   <ItemGroup>
     <ClCompile Include="line.cpp" />
     <ClCompile Include="main_line.cpp" />
+    <ClCompile Include="MyVector.cpp" />
     <ClCompile Include="reference.cpp" />
     <ClCompile Include="temp.cpp" />
+    <ClCompile Include="vector_main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="line.h" />
+    <ClInclude Include="MyVector.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

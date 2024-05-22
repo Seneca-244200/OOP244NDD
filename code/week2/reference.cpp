@@ -23,7 +23,7 @@ void changeValRef(int& val) {
 
 
 
-int main() {
+int main_ref() {
 	int a = 10;
 	int& r = a; // r is a reference/alias/name for a
 
